@@ -1,3 +1,10 @@
+#Author: Jocelyn Fafard jqf5530@psu.edu
+#Collaborator: Andrei Charles Dawinan abd5635@psu.edu
+#Collaborator: Michael Scarpitta mss6102@psu.edu
+#Collaborator: Jerry Diaz jqd5879@psu.edu
+#Section: 012R
+#Breakout: 14
+
 def getLetterGrade(grade):
     if grade >= 93:
       return "A"
